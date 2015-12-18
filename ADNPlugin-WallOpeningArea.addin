@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>ADNP Wall Opening Area</Name>
+    <Assembly>.\ADNPlugin-WallOpeningArea.dll</Assembly>
+    <ClientId>7711aaef-79a1-431c-99f3-c4934de52d6d</ClientId>
+    <FullClassName>ADNPlugin.Revit.WallOpeningArea.ADNPApplication</FullClassName>
+    <VendorId>ADNP</VendorId>
+    <VendorDescription>Autodesk, http://www.autodesk.com/ </VendorDescription>
+  </AddIn>
+</RevitAddIns>
