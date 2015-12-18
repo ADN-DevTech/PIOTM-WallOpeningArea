@@ -170,21 +170,12 @@ enhancements.
 Release History
 ---------------
 
-<<<<<<< Updated upstream
-1.0    Original release                     (August 1, 2011)
-1.0.1  Modified the Installation Instruction 
-       in the ReadMe.txt, considering the 
-       permission issue with the location 
-       of the shared parameter file         (August 9, 2011)
-1.0.2  Ribbon button created                (October 13, 2011)
-=======
     1.0    Original release                     (August 1, 2011)
     1.0.1  Modified the Installation Instruction 
            in the ReadMe.txt, considering the 
            permission issue with the location 
            of the shared parameter file         (August 9, 2011)
     1.0.2  Ribbon button created                (October 13, 2011)
->>>>>>> Stashed changes
 
 (C) Copyright 2011 by Autodesk, Inc. 
 
@@ -200,7 +191,3 @@ AUTODESK SPECIFICALLY DISCLAIMS ANY IMPLIED WARRANTY OF
 MERCHANTABILITY OR FITNESS FOR A PARTICULAR USE.  AUTODESK, INC. 
 DOES NOT WARRANT THAT THE OPERATION OF THE PROGRAM WILL BE
 UNINTERRUPTED OR ERROR FREE.
-<<<<<<< Updated upstream
-
-=======
->>>>>>> Stashed changes
