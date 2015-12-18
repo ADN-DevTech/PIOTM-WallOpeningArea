@@ -1,11 +1,7 @@
 # PIOTM-WallOpeningArea
 
-<<<<<<< Updated upstream
 Plugin of the Month, August 2011
 Brought to you by the Autodesk Developer Network
-=======
-Plugin of the Month, August 2011, brought to you by the Autodesk Developer Network
->>>>>>> Stashed changes
 
 Wall Opening Area
 
