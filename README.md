@@ -1,12 +1,9 @@
 # PIOTM-WallOpeningArea
 
-================================================
-      Plugin of the Month, August 2011
+Plugin of the Month, August 2011
 Brought to you by the Autodesk Developer Network
-================================================
------------------
+
 Wall Opening Area
------------------
 
 # Description
 
